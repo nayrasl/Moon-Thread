@@ -19,6 +19,7 @@ main{
     box-shadow: -2px 1px 8px black;
     padding: 20px;
     margin-bottom: 30px;
+    background-color: var(--c01);
 }
 ul{
     color: var(--c03);
